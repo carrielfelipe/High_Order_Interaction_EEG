@@ -1,0 +1,231 @@
+Red,Region
+DEFAULT,Precuneus_L
+DEFAULT,Precuneus_R
+DEFAULT,Cingulum_Post_L
+DEFAULT,Cingulum_Post_R
+DEFAULT,Frontal_Med_Orb_L
+DEFAULT,Frontal_Med_Orb_R
+DEFAULT,Frontal_Sup_L
+DEFAULT,Frontal_Sup_R
+DEFAULT,Angular_L
+DEFAULT,Angular_R
+DEFAULT,Temporal_Mid_L
+DEFAULT,Temporal_Mid_R
+DEFAULT,Temporal_Pole_Mid_L
+DEFAULT,Temporal_Pole_Mid_R
+DEFAULT,Hippocampus_L
+DEFAULT,Hippocampus_R
+DEFAULT,ParaHippocampal_L
+DEFAULT,ParaHippocampal_R
+DEFAULT,Temporal_Pole_Sup_L
+DEFAULT,Temporal_Pole_Sup_R
+DORSAL ATTENTION (DAN),Frontal_Sup_L
+DORSAL ATTENTION (DAN),Frontal_Sup_R
+DORSAL ATTENTION (DAN),Frontal_Mid_L
+DORSAL ATTENTION (DAN),Frontal_Mid_R
+DORSAL ATTENTION (DAN),Precentral_L
+DORSAL ATTENTION (DAN),Precentral_R
+DORSAL ATTENTION (DAN),Supp_Motor_Area_L
+DORSAL ATTENTION (DAN),Supp_Motor_Area_R
+DORSAL ATTENTION (DAN),Parietal_Sup_L
+DORSAL ATTENTION (DAN),Parietal_Sup_R
+DORSAL ATTENTION (DAN),Parietal_Inf_L
+DORSAL ATTENTION (DAN),Parietal_Inf_R
+DORSAL ATTENTION (DAN),Occipital_Sup_L
+DORSAL ATTENTION (DAN),Occipital_Sup_R
+DORSAL ATTENTION (DAN),Occipital_Mid_L
+DORSAL ATTENTION (DAN),Occipital_Mid_R
+DORSAL ATTENTION (DAN),Calcarine_L
+DORSAL ATTENTION (DAN),Calcarine_R
+DORSAL ATTENTION (DAN),Lingual_L
+DORSAL ATTENTION (DAN),Lingual_R
+DORSAL ATTENTION (DAN),Temporal_Mid_L
+DORSAL ATTENTION (DAN),Temporal_Mid_R
+VENTRAL ATTENTION (VAN),Insula_L
+VENTRAL ATTENTION (VAN),Insula_R
+VENTRAL ATTENTION (VAN),Cingulum_Ant_L
+VENTRAL ATTENTION (VAN),Cingulum_Ant_R
+VENTRAL ATTENTION (VAN),Frontal_Inf_Oper_L
+VENTRAL ATTENTION (VAN),Frontal_Inf_Oper_R
+VENTRAL ATTENTION (VAN),Frontal_Inf_Tri_L
+VENTRAL ATTENTION (VAN),Frontal_Inf_Tri_R
+VENTRAL ATTENTION (VAN),Frontal_Inf_Orb_L
+VENTRAL ATTENTION (VAN),Frontal_Inf_Orb_R
+VENTRAL ATTENTION (VAN),Frontal_Mid_Orb_L
+VENTRAL ATTENTION (VAN),Frontal_Mid_Orb_R
+VENTRAL ATTENTION (VAN),SupraMarginal_L
+VENTRAL ATTENTION (VAN),SupraMarginal_R
+VENTRAL ATTENTION (VAN),Angular_L
+VENTRAL ATTENTION (VAN),Angular_R
+VENTRAL ATTENTION (VAN),Temporal_Sup_L
+VENTRAL ATTENTION (VAN),Temporal_Sup_R
+VENTRAL ATTENTION (VAN),Rolandic_Oper_L
+VENTRAL ATTENTION (VAN),Rolandic_Oper_R
+SOMATOSENSORY,Precentral_L
+SOMATOSENSORY,Precentral_R
+SOMATOSENSORY,Postcentral_L
+SOMATOSENSORY,Postcentral_R
+SOMATOSENSORY,Supp_Motor_Area_L
+SOMATOSENSORY,Supp_Motor_Area_R
+SOMATOSENSORY,Parietal_Sup_L
+SOMATOSENSORY,Parietal_Sup_R
+SOMATOSENSORY,Parietal_Inf_L
+SOMATOSENSORY,Parietal_Inf_R
+SOMATOSENSORY,Rolandic_Oper_L
+SOMATOSENSORY,Rolandic_Oper_R
+SOMATOSENSORY,Insula_L
+SOMATOSENSORY,Insula_R
+LIMBIC,Hippocampus_L
+LIMBIC,Hippocampus_R
+LIMBIC,ParaHippocampal_L
+LIMBIC,ParaHippocampal_R
+LIMBIC,Amygdala_L
+LIMBIC,Amygdala_R
+LIMBIC,Frontal_Med_Orb_L
+LIMBIC,Frontal_Med_Orb_R
+LIMBIC,Frontal_Inf_Orb_L
+LIMBIC,Frontal_Inf_Orb_R
+LIMBIC,Frontal_Mid_Orb_L
+LIMBIC,Frontal_Mid_Orb_R
+LIMBIC,Cingulum_Ant_L
+LIMBIC,Cingulum_Ant_R
+LIMBIC,Cingulum_Mid_L
+LIMBIC,Cingulum_Mid_R
+LIMBIC,Cingulum_Post_L
+LIMBIC,Cingulum_Post_R
+FPCN (ECN),Frontal_Sup_L
+FPCN (ECN),Frontal_Sup_R
+FPCN (ECN),Frontal_Mid_L
+FPCN (ECN),Frontal_Mid_R
+FPCN (ECN),Frontal_Inf_Tri_L
+FPCN (ECN),Frontal_Inf_Tri_R
+FPCN (ECN),Frontal_Inf_Oper_L
+FPCN (ECN),Frontal_Inf_Oper_R
+FPCN (ECN),Parietal_Inf_L
+FPCN (ECN),Parietal_Inf_R
+FPCN (ECN),Angular_L
+FPCN (ECN),Angular_R
+FPCN (ECN),Parietal_Sup_L
+FPCN (ECN),Parietal_Sup_R
+FPCN (ECN),Frontal_Sup_Medial_L
+FPCN (ECN),Frontal_Sup_Medial_R
+SALIENCE,Insula_L
+SALIENCE,Insula_R
+SALIENCE,Cingulum_Ant_L
+SALIENCE,Cingulum_Ant_R
+SALIENCE,Frontal_Med_Orb_L
+SALIENCE,Frontal_Med_Orb_R
+SALIENCE,Frontal_Inf_Orb_L
+SALIENCE,Frontal_Inf_Orb_R
+SALIENCE,Frontal_Inf_Tri_L
+SALIENCE,Frontal_Inf_Tri_R
+SALIENCE,Frontal_Inf_Oper_L
+SALIENCE,Frontal_Inf_Oper_R
+SALIENCE,Amygdala_L
+SALIENCE,Amygdala_R
+SALIENCE,Cingulum_Mid_L
+SALIENCE,Cingulum_Mid_R
+AUDITORY,Heschl_L
+AUDITORY,Heschl_R
+AUDITORY,Temporal_Sup_L
+AUDITORY,Temporal_Sup_R
+AUDITORY,Temporal_Pole_Sup_L
+AUDITORY,Temporal_Pole_Sup_R
+AUDITORY,Rolandic_Oper_L
+AUDITORY,Rolandic_Oper_R
+AUDITORY,Insula_L
+AUDITORY,Insula_R
+AUDITORY,Temporal_Mid_L
+AUDITORY,Temporal_Mid_R
+LANGUAGE,Frontal_Inf_Oper_L
+LANGUAGE,Frontal_Inf_Oper_R
+LANGUAGE,Frontal_Inf_Tri_L
+LANGUAGE,Frontal_Inf_Tri_R
+LANGUAGE,Temporal_Sup_L
+LANGUAGE,Temporal_Sup_R
+LANGUAGE,Temporal_Mid_L
+LANGUAGE,Temporal_Mid_R
+LANGUAGE,Temporal_Inf_L
+LANGUAGE,Temporal_Inf_R
+LANGUAGE,Angular_L
+LANGUAGE,Angular_R
+LANGUAGE,SupraMarginal_L
+LANGUAGE,SupraMarginal_R
+LANGUAGE,Rolandic_Oper_L
+LANGUAGE,Rolandic_Oper_R
+LANGUAGE,Supp_Motor_Area_L
+LANGUAGE,Supp_Motor_Area_R
+LANGUAGE,Insula_L
+LANGUAGE,Insula_R
+VISUAL,Calcarine_L
+VISUAL,Calcarine_R
+VISUAL,Cuneus_L
+VISUAL,Cuneus_R
+VISUAL,Lingual_L
+VISUAL,Lingual_R
+VISUAL,Occipital_Sup_L
+VISUAL,Occipital_Sup_R
+VISUAL,Occipital_Mid_L
+VISUAL,Occipital_Mid_R
+VISUAL,Occipital_Inf_L
+VISUAL,Occipital_Inf_R
+VISUAL,Fusiform_L
+VISUAL,Fusiform_R
+VISUAL,Precuneus_L
+VISUAL,Precuneus_R
+Medial temporal lobe,Hippocampus_L
+Medial temporal lobe,Hippocampus_R
+Medial temporal lobe,ParaHippocampal_L
+Medial temporal lobe,ParaHippocampal_R
+Medial temporal lobe,Amygdala_L
+Medial temporal lobe,Amygdala_R
+Medial temporal lobe,Temporal_Pole_Mid_L
+Medial temporal lobe,Temporal_Pole_Mid_R
+Medial temporal lobe,Temporal_Mid_L
+Medial temporal lobe,Temporal_Mid_R
+Visual Association,Fusiform_L
+Visual Association,Fusiform_R
+Visual Association,Temporal_Inf_L
+Visual Association,Temporal_Inf_R
+Visual Association,Lingual_L
+Visual Association,Lingual_R
+Visual Association,Occipital_Inf_L
+Visual Association,Occipital_Inf_R
+Visual Association,Temporal_Mid_L
+Visual Association,Temporal_Mid_R
+Posterior Multimodal,Precuneus_L
+Posterior Multimodal,Precuneus_R
+Posterior Multimodal,Angular_L
+Posterior Multimodal,Angular_R
+Posterior Multimodal,SupraMarginal_L
+Posterior Multimodal,SupraMarginal_R
+Posterior Multimodal,Temporal_Sup_L
+Posterior Multimodal,Temporal_Sup_R
+Posterior Multimodal,Cingulum_Post_L
+Posterior Multimodal,Cingulum_Post_R
+DMN anterior,Frontal_Med_Orb_L
+DMN anterior,Frontal_Med_Orb_R
+DMN anterior,Frontal_Sup_Medial_L
+DMN anterior,Frontal_Sup_Medial_R
+DMN anterior,Cingulum_Ant_L
+DMN anterior,Cingulum_Ant_R
+DMN posterior,Precuneus_L
+DMN posterior,Precuneus_R
+DMN posterior,Cingulum_Post_L
+DMN posterior,Cingulum_Post_R
+DMN posterior,Angular_L
+DMN posterior,Angular_R
+DMN medial temporal,Hippocampus_L
+DMN medial temporal,Hippocampus_R
+DMN medial temporal,ParaHippocampal_L
+DMN medial temporal,ParaHippocampal_R
+DMN medial temporal,Temporal_Pole_Mid_L
+DMN medial temporal,Temporal_Pole_Mid_R
+FPCN left,Frontal_Mid_L
+FPCN left,Frontal_Inf_Tri_L
+FPCN left,Parietal_Inf_L
+FPCN left,Angular_L
+FPCN right,Frontal_Mid_R
+FPCN right,Frontal_Inf_Tri_R
+FPCN right,Parietal_Inf_R
+FPCN right,Angular_R
