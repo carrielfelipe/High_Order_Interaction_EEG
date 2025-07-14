@@ -1,0 +1,30 @@
+redes_dict = {
+    "auditory": "AUDITORY",
+    "default": "DEFAULT",
+    "dmn_anterior": "DMNAnterior",
+    "dmn_medial_temporal": "DMNMedialTemporal",
+    "dmn_posterior": "DMNPosterior",
+    "dorsal_attention_dan": "DORSALATTENTION_DAN_",
+    "fpcn_left": "FPCNLeft",
+    "fpcn_right": "FPCNRight",
+    "fpcn_ecn": "FPCN_ECN_",
+    "language": "LANGUAGE",
+    "limbic": "LIMBIC",
+    "medial_temporal_lobe": "MedialTemporalLobe",
+    "posterior_multimodal": "PosteriorMultimodal",
+    "salience": "SALIENCE",
+    "somatosensory": "SOMATOSENSORY",
+    "ventral_attention_van": "VENTRALATTENTION_VAN_",
+    "visual": "VISUAL",
+    "visual_association": "VisualAssociation"
+}
+
+
+nombres_bandas = [
+    "sin_filtrar",
+    "delta",
+    "theta",
+    "alpha",
+    "beta",
+    "gamma"
+]
