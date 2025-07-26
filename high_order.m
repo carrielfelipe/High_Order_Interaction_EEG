@@ -9,7 +9,7 @@ Output: - 'Red': Matrix with dimension (Npatients,Modules), with the redundancy 
         - 'Oinfo': O-Information for all the n-plets.
         - 'Sinfo': S-Information for all the n-plets
 
-@author: Marilyn Gatica, marilyn.gatica@postgrado.uv.cl
+@author: Marilyn Gatica, marilyn.gatica@postgrado.uv.clfigur
 Acknowledgment: data2gaussian(), soinfo_from_covmat() created by Ruben
 Herzog, ruben.herzog@postgrado.uv.cl; modify by Marilyn Gatica.
 %}
